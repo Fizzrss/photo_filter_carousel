@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'filter_item.dart';
+import 'filter_carousel.dart';
+import 'carousel_flowdelegate.dart';
+import 'package:flutter/rendering.dart';
 
 @immutable
 class FilterSelector extends StatefulWidget {
